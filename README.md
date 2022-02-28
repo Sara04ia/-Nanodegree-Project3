@@ -1,4 +1,5 @@
-# Nanodegree-Starbucks Capstone project
+# Starbucks Capstone project
+
 # Starbucks Capstone Challenge
 This project is a part of Udacity Data Science Nanodegree
 
