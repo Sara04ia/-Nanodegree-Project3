@@ -1,2 +1,2 @@
-# -Nanodegree-Project3
+# Nanodegree-Project3
 # Starbucks Capstone Challenge
